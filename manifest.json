@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "Crossing the Line",
+  "description": "No objection taken.",
+  "version": "1.0.1",
+
+  "icons": {
+    "128": "icon.png"
+  },
+
+  "content_scripts": [{
+    "js": ["content.js"],
+    "css": ["style.css"],
+    "matches": ["https://digitalmedia-bremen.slack.com/*"],
+    "run_at": "document_end"
+  }],
+
+  "permissions": [
+    "activeTab"
+  ]
+}
