@@ -5,4 +5,6 @@
 It's a simple Chrome Extension that sktrikes through the ~~teacher~~'s messages in the Slack team.
 What lead me here is stubbornness but I guess it's okay.
 
+![Example Screenshot](https://github.com/bsplt/Crossing-the-Line/blob/master/screenshot.png "Example Screenshot")
+
 To install it, download the files, open the extensions settings in your Chrome browser, check the developer mode box and load the folder.
