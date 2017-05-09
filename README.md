@@ -1,4 +1,4 @@
-# Crossing-the-Line
+# Crossing the Line
 ### Objecting the Digital Artifactual Objection Course
 
 **Crossing the Line** is the result of a short term assignment in the Digital Media program at HfK Bremen for the Digital Artifactual Objection course.
